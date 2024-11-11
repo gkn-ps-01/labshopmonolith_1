@@ -1,7 +1,7 @@
 # 
 
 ## Model
-www.msaez.io/#/courses/cna-full/15959a90-8edc-11ef-99e7-5be4c630405e/monolith-2-misvc-2022
+www.msaez.io/#/storming/labshopmonolith-gkn_psps
 
 ## Before Running Services
 ### Make sure there is a Kafka server running
